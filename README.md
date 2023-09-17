@@ -8,14 +8,20 @@
 
 
 
-<div align="center">
+<img align="right" alt="Coding" width="250" src="https://res.cloudinary.com/dnwmgftf8/image/upload/v1694944154/Untitled_design_d6yw4l.png">
+
+
+<div align="left">
+
+<br/>
  
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 <br/>
 
- 
  </div>
+
+
  
 <div align="center"> 
   <a href="mailto:reactinary@gmail.com">
