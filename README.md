@@ -15,7 +15,9 @@
 
 <br/>
  
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+After being a teacher for 3 years, I’ve decided in 2021 to switch career and to focus on Blockchain and Web dev. I’ve started my career learning by myself how to create web apps. Soon after, I’ve completed with success several bootcamps to sharpen and validate my skills.
+<br/>
+In 2022, I’ve started to work for a Blockchain company. I was in charge of the frontend development. In 2023, I’ve started to learn React and worked on several projects on Next JS. I’m still a junior in React but I’m very motivated and able to learn quickly.
 
 <br/>
 
