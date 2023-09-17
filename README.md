@@ -1,5 +1,5 @@
 
-![MasterHead](https://phixies.com/publico/tecnologias-galeria/48/!0339c8e835cdcbe2b14071d34d069056ba93046f4f7e74f5db75fb475d911b33.png)
+![MasterHead](https://res.cloudinary.com/dnwmgftf8/image/upload/v1694943426/Banner_image_sczjdm.png)
 
 
 <h1 align="center">
